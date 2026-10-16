@@ -1,0 +1,12 @@
+cricket_drs_system/
+│
+├── data/
+│   ├── input_videos/       # Place your delivery.mp4 here (optional backup)
+│   └── audio_tracks/       # Place your delivery_audio.wav here (optional backup)
+│
+├── outputs/                # Folder where generated decision screens save automatically
+├── venv/                   # Local Python virtual environment folder
+├── structure.txt           # Project blueprint reference file
+├── requirements.txt        # Package dependencies list
+└── app.py                  # Master web application code
+
