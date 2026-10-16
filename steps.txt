@@ -1,0 +1,17 @@
+Step-by-Step Setup & Execution Instructions
+Open VS Code and open your cricket_drs_system folder.
+Open your integrated terminal by pressing `Ctrl + `` (backtick).
+Create your isolated Python virtual environment:
+python -m venv venv
+
+ Activate the virtual environment:
+ venv\Scripts\activate
+
+Install the required Python packages:
+            pip install -r requirements.txt
+
+ Launch the local web application server:
+           streamlit run app.py
+
+Your browser will automatically open your local dashboard where you can stream videos, test your reviews, and trigger instant decisions!
+
