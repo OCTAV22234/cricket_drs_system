@@ -1,0 +1,8 @@
+YOU CAN DO IT IN VS CODE OR CMD
+
+USE THE COMMAND BEFORE RUNNING-
+  python -m pip install opencv-python numpy
+
+  THEN USE THIS 
+  cd DIRECTORY python drs_runout_web_app.py
+  Then open **http://localhost:8000** in your web browser.
